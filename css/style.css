@@ -31,7 +31,7 @@ h4 {
 }
 
 h4.amiable{
-    background: linear-gradient(to right, #FFF, #000)
+    background: linear-gradient(to right, #44cc66, #22aa44)
 }
 
 .amiable {
@@ -45,6 +45,10 @@ h4.amiable{
   border: 1px solid #9e8e26;
   box-shadow:  -1px 1px #9e8e26, -2px 2px #9e8e26, -3px 3px #9e8e26, -4px 4px #9e8e26, -5px 5px #9e8e26;
   background-color: #ffee66;
+}
+
+h4.indifferent {
+    background: linear-gradient(to right, #44cc66, #22aa44)
 }
 
 .dubious {
