@@ -8,6 +8,9 @@ body, html {
   background-image: url("../images/white-wood.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+body {
   position: fixed;
 }
 
